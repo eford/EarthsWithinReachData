@@ -6,7 +6,7 @@
 ### Files
 |Filename|                             Contents | Notes |
 | ------ | ------------------------------------ | ----- |
-|TBD|                                  Data for Fig 1, fig_wavecal_drift.png | |
+<!-- |TBD|                                  Data for Fig 1, fig_wavecal_drift.png | | -->
 |fig_daily_rv_vs_date_compare_drp.csv| Data for Fig 2, fig_daily_rv_vs_date_compare_drp.png | |
 |fig_daily_rv_vs_tod.csv|              Data for Fig 3, fig_daily_rv_vs_tod.png | |
 |fig_daily_slope_vs_order.csv|         Data for Fig 4 left, fig_daily_slope_vs_order.png | |
