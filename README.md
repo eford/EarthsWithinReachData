@@ -4,25 +4,26 @@
 ### Data from January 1, 2021 - June 30, 2024
 
 ### Files
-Filename:                             Contents
-TBD                                   Data for Fig 1, fig_wavecal_drift.png
-fig_daily_rv_vs_date_compare_drp.csv: Data for Fig 2, fig_daily_rv_vs_date_compare_drp.png
-fig_daily_rv_vs_tod.csv:              Data for Fig 3, fig_daily_rv_vs_tod.png
-fig_daily_slope_vs_order.csv:         Data for Fig 4 left, fig_daily_slope_vs_order.png
-fig_daily_slope_vs_day.csv:           Data for Fig 4 right, fig_daily_slope_vs_day.png
-fig_intraday_rms_rv_vs_order.csv:     Data for Fig 5 left, fig_intraday_rms_rv_vs_order.png
-fig_interday_rms_rv_vs_order.csv:     Data for Fig 5 right, fig_interday_rms_rv_vs_order.png
-fig_intraday_rms_histo_5.csv:         Data for Fig 6 blue histogram in fig_intraday_rms_histo.png
-fig_intraday_rms_histo_10.csv:        Data for Fig 6 red histogram in fig_intraday_rms_histo.png
-fig_daily_mean_rv_vs_date.csv:        Data for Fig 7, fig_daily_mean_rv_vs_date.png
-activity.csv (in zenodo):             Data for Fig 8, fig_activity_vs_time.png
-fig_chromatic_rvs_vs_time.csv:        Data for Fig 9, fig_chromatic_rvs_vs_time.png
-fig_nir_vs_optical.csv:               Data for Fig 10, fig_nir_vs_optical_a.png and fig_nir_vs_optical_b.png
-fig_ccf_metrics_vs_time.csv:          Data for Fig 11 left, fig_ccf_metrics_vs_time.png
-fig_ml_vs_time.csv:                   Data for Fig 11 right, fig_ml_vs_time.png and Fig 14, fig_delta_rv_vs_delta_rv.png
-fig_ml_ccf_rms.csv:                   Data for Fig 12 left, fig_ml_ccf_rms.png
-fig_ml_ccf_cv.csv:                    Data for Fig 12 right, fig_ml_ccf_cv.png
-fig_rms_rv_scalpels_vs_inttime.csv:   Data for Fig 13, fig_rms_rv_scalpels_vs_inttime.png
+|Filename|                             Contents | Notes |
+| ------ | ------------------------------------ | ----- |
+|TBD|                                  Data for Fig 1, fig_wavecal_drift.png | |
+|fig_daily_rv_vs_date_compare_drp.csv| Data for Fig 2, fig_daily_rv_vs_date_compare_drp.png | |
+|fig_daily_rv_vs_tod.csv|              Data for Fig 3, fig_daily_rv_vs_tod.png | |
+|fig_daily_slope_vs_order.csv|         Data for Fig 4 left, fig_daily_slope_vs_order.png | |
+|fig_daily_slope_vs_day.csv|           Data for Fig 4 right, fig_daily_slope_vs_day.png | |
+|fig_intraday_rms_rv_vs_order.csv|     Data for Fig 5 left, fig_intraday_rms_rv_vs_order.png | |
+|fig_interday_rms_rv_vs_order.csv|     Data for Fig 5 right, fig_interday_rms_rv_vs_order.png | | 
+|fig_intraday_rms_histo_5.csv|         Data for Fig 6 blue histogram in fig_intraday_rms_histo.png | |
+|fig_intraday_rms_histo_10.csv|        Data for Fig 6 red histogram in fig_intraday_rms_histo.png | |
+|fig_daily_mean_rv_vs_date.csv|        Data for Fig 7, fig_daily_mean_rv_vs_date.png | |
+|activity.csv|                         Data for Fig 8, fig_activity_vs_time.png | in [zenodo](https://zenodo.org/records/13363761) |
+|fig_chromatic_rvs_vs_time.csv|        Data for Fig 9, fig_chromatic_rvs_vs_time.png | |
+|fig_nir_vs_optical.csv|               Data for Fig 10, fig_nir_vs_optical_a.png and fig_nir_vs_optical_b.png | |
+|fig_ccf_metrics_vs_time.csv|          Data for Fig 11 left, fig_ccf_metrics_vs_time.png | |
+|fig_ml_vs_time.csv|                   Data for Fig 11 right, fig_ml_vs_time.png and Fig 14, fig_delta_rv_vs_delta_rv.png | |
+|fig_ml_ccf_rms.csv|                   Data for Fig 12 left, fig_ml_ccf_rms.png | |
+|fig_ml_ccf_cv.csv|                    Data for Fig 12 right, fig_ml_ccf_cv.png | |
+|fig_rms_rv_scalpels_vs_inttime.csv|   Data for Fig 13, fig_rms_rv_scalpels_vs_inttime.png | |
 
 ## How to cite
 If you make use of the associated paper, this repository with data behind the figures, and/or the additional high-level data products provided, please cite:
