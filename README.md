@@ -1,9 +1,8 @@
 # Data behind the figures 
 ## Earths within Reach:  Evaluation of Strategies for Mitigating Solar Variability using 3.5 years of NEID Sun-as-a-Star Observations
 ### Ford et al. (2024) submitted to AAS Journals
-### Data from January 1, 2021 - June 30, 2024
+### NEID Solar observations from January 1, 2021 - June 30, 2024
 
-### Files
 |Filename|                             Contents | Notes |
 | ------ | ------------------------------------ | ----- |
 |fig_daily_rv_vs_date_compare_drp.csv| Data for Fig 2, fig_daily_rv_vs_date_compare_drp.png | |
@@ -46,6 +45,7 @@ Bibtex
 ```
     
 ## Data Release History
+- L0, L1 and L2 outputs from NEID Data Reduction Pipeline are promptly avaliable via the [NEID Solar Archive](https://neid.ipac.caltech.edu/search_solar.php).
 - High-level Data Products for NEID NEID Solar Observations (January 2021 - June 2024): DOI [10.5281/zenodo.13363761](https://zenodo.org/records/13363761)
 - High-quality NEID Solar Observations (January 2021 - June 2022): DOI [10.5281/zenodo.7857520](https://zenodo.org/doi/10.5281/zenodo.7857520)
 
