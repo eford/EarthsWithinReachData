@@ -6,7 +6,6 @@
 ### Files
 |Filename|                             Contents | Notes |
 | ------ | ------------------------------------ | ----- |
-<!-- |TBD|                                  Data for Fig 1, fig_wavecal_drift.png | | -->
 |fig_daily_rv_vs_date_compare_drp.csv| Data for Fig 2, fig_daily_rv_vs_date_compare_drp.png | |
 |fig_daily_rv_vs_tod.csv|              Data for Fig 3, fig_daily_rv_vs_tod.png | |
 |fig_daily_slope_vs_order.csv|         Data for Fig 4 left, fig_daily_slope_vs_order.png | |
@@ -24,6 +23,8 @@
 |fig_ml_ccf_rms.csv|                   Data for Fig 12 left, fig_ml_ccf_rms.png | |
 |fig_ml_ccf_cv.csv|                    Data for Fig 12 right, fig_ml_ccf_cv.png | |
 |fig_rms_rv_scalpels_vs_inttime.csv|   Data for Fig 13, fig_rms_rv_scalpels_vs_inttime.png | |
+
+<!-- |TBD|                                  Data for Fig 1, fig_wavecal_drift.png | | -->
 
 ## How to cite
 If you make use of the associated paper, this repository with data behind the figures, and/or the additional high-level data products provided, please cite:
